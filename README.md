@@ -41,7 +41,9 @@ I am a Frontend Web Developer specializing in modern, responsive, and interactiv
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanzim-777&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=tanzim-777&theme=radical&no-frame=true&row=1&column=7)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzim-777" alt="tanzim-777" /></a> </p>
+
+
 
 ![GitHub metrics](https://metrics.lecoq.io/tanzim-777)
 
