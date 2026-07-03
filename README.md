@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Web+Engineer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+MERN+Stack)
 
-![Frontend Web Engineer](https://raw.githubusercontent.com/tanzim-777/My-Redme-file/refs/heads/main/Minhajul%20Islam%20Tanzim%20%281%29.png)
+![Frontend Web Engineer](https://raw.githubusercontent.com/tanzim-777/My-Redme-file/refs/heads/main/Untitled%20design.png)
 
 I am a Frontend Web Developer specializing in modern, responsive, and interactive user interfaces built with JavaScript and React. Client satisfaction is my priority.
 
