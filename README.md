@@ -1,5 +1,5 @@
 ### Hi there 👋, Minhajul Islam Tanzim
-#### Frontend Web Engineer
+#### Frontend Web Developer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Web+Engineer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+MERN+Stack)
 
