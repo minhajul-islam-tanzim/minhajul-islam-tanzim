@@ -2,11 +2,11 @@
 
 #### Frontend Web Developer
 
-![Cover](./cover.png)                   7
+![Cover](./cover.png)                   
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Web+Engineer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+MERN+Stack)
 
-![Frontend Web Engineer](https://raw.githubusercontent.com/minhajul-islam-tanzim/My-Redme-file/refs/heads/main/Untitled%20design.png)
+
 
 I am a Frontend Web Developer specializing in modern, responsive, and interactive user interfaces built with JavaScript and React. Client satisfaction is my priority.
 
