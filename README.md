@@ -35,7 +35,14 @@ I am a Frontend Web Developer specializing in modern, responsive, and interactiv
   </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+  
 </p>
 
 - 🔭 I'm currently working on REACT JS
