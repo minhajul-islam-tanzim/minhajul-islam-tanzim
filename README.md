@@ -1,6 +1,6 @@
 ### Hi there 👋, Minhajul Islam Tanzim
 
-#### Frontend Web Developer
+#### Frontend Engineer
 
 ![Cover](./cover.png)                   
 
