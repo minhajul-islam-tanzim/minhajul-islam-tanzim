@@ -42,7 +42,7 @@ I am a Frontend Web Developer specializing in modern, responsive, and interactiv
   
 </p>
 
-- 🔭 I'm currently working on REACT JS
+- 🔭 I'm currently working on NODE JS
 - 🌱 I'm currently learning MERN Stack
 
 <p>
