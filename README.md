@@ -37,13 +37,13 @@ I am a Frontend Web Developer specializing in modern, responsive, and interactiv
     <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
 
