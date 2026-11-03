@@ -1,14 +1,14 @@
 ### Hi there 👋, Minhajul Islam Tanzim
 
-#### Frontend Engineer
+#### Full-Stack Software Engineer
 
 ![Cover](./cover.png)                   
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Web+Engineer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+MERN+Stack)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+MERN+Stack)
 
 
 
-I am a Frontend Web Developer specializing in modern, responsive, and interactive user interfaces built with JavaScript and React. Client satisfaction is my priority.
+I am a Full-Stack Software Engineer specializing in modern, responsive, and interactive user interfaces built with JavaScript and React. Client satisfaction is my priority.
 
 <h3>Skills:</h3>
 <p>
