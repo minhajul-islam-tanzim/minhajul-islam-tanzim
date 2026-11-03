@@ -47,8 +47,8 @@ I am a Full-Stack Software Engineer specializing in modern, responsive, and inte
   </a>
 </p>
 
-- 🔭 I'm currently working on NODE JS
-- 🌱 I'm currently learning MERN Stack
+- 🔭 I'm currently working on MERN
+- 🌱 I'm still learning 
 
 <p>
   <a href='https://github.com/minhajul-islam-tanzim'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>&nbsp;&nbsp;
