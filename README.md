@@ -1,75 +1,68 @@
-
-<h1 align="center">Hi 👋, I'm Minhajul Islam Tanzim</h1>
-
-<h3 align="center">Full-Stack Developer | MERN Stack | Next.js</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Minhajul%20Islam%20Tanzim&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=56&animation=fadeIn" alt="cover" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+clean+and+responsive+UIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="./cover.png" alt="Profile Cover" width="100%" />
+  <a href="https://tanzim.dev"><img src="https://img.shields.io/badge/Portfolio-tanzim.dev-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.facebook.com/mdtanzim.hasan777"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=minhajul-islam-tanzim&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="views" />
 </p>
 
----
+## 👨‍💻 About Me
 
-## 🚀 About Me
+- 🔭 Currently working on the **MERN stack**
+- 🌱 Learning full-stack development and advanced React patterns
+- 🎓 CSE student from Bangladesh
+- 🎯 Goal: build scalable products and work with international teams
+- 💼 Open to frontend / full-stack opportunities
 
-- 💻 I'm a Full-Stack Developer focused on building modern web applications.
-- 🌱 Currently improving my skills in the MERN Stack ecosystem.
-- ⚡ Passionate about clean code, responsive UI, and scalable applications.
-- 🎯 Focused on solving real-world problems through technology.
-- 🤝 Open to collaboration and exciting development opportunities.
+## 🛠 Tech Stack
 
----
+**Frontend**
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs" alt="frontend" />
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
-</p>
+**Backend & Database**
 
-### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="backend" />
 
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm" alt="tools" />
 
-## 📊 GitHub Statistics
+## 📌 Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=minhajul-islam-tanzim&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajul-islam-tanzim&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajul-islam-tanzim&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/minhajul-islam-tanzim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+<p>
+  <a href="https://github.com/minhajul-islam-tanzim/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhajul-islam-tanzim&repo=REPO_NAME_1&theme=radical&hide_border=true" alt="project 1" />
   </a>
-  <a href="https://www.facebook.com/mdtanzim.hasan777" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" />
+  <a href="https://github.com/minhajul-islam-tanzim/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhajul-islam-tanzim&repo=REPO_NAME_2&theme=radical&hide_border=true" alt="project 2" />
   </a>
 </p>
 
----
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhajul-islam-tanzim&label=Profile%20Views&color=36BCF7&style=flat" />
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=minhajul-islam-tanzim&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajul-islam-tanzim&layout=compact&theme=radical&hide_border=true" alt="top languages" />
 </p>
 
-<h3 align="center">💙 Building, Learning & Growing Every Day!</h3>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=minhajul-islam-tanzim&theme=radical&hide_border=true" alt="streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhajul-islam-tanzim&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://tanzim.dev"><img src="https://img.shields.io/badge/Website-tanzim.dev-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="website" /></a>
+  <a href="https://www.facebook.com/mdtanzim.hasan777"><img src="https://img.shields.io/badge/Facebook-Message-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="footer" />
