@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=74AEDD&height=240&section=header&text=Minhajul%20Islam%20Tanzim&fontSize=42&fontColor=0B2545&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descSize=20&descColor=0B2545&descAlignY=60" alt="cover" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=74AEDD&height=240&section=header&text=Minhajul%20Islam%20Tanzim&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descSize=20&descColor=ffffff&descAlignY=60" alt="cover" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B8ED0&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Building+clean+and+responsive+UIs" alt="Typing SVG" />
 </p>
@@ -81,16 +80,16 @@
 
 ---
 
-## 📌 Featured Projects
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://github.com/minhajul-islam-tanzim/REPO_NAME_1">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=minhajul-islam-tanzim&repo=REPO_NAME_1&title_color=74AEDD&icon_color=74AEDD&text_color=C9D1D9&bg_color=0B1623&hide_border=true" alt="project 1" />
   </a>
   <a href="https://github.com/minhajul-islam-tanzim/REPO_NAME_2">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=minhajul-islam-tanzim&repo=REPO_NAME_2&title_color=74AEDD&icon_color=74AEDD&text_color=C9D1D9&bg_color=0B1623&hide_border=true" alt="project 2" />
   </a>
-</p>
+</p> -->
 
 ---
 
